@@ -1,0 +1,73 @@
+documentclass[12pt,]{article}
+\usepackage{zed-csp,graphicx,color}%from
+\pagenumbering{roman}
+\begin{document}
+
+\begin{titlepage}
+\begin{figure}[h]
+  \centerline{\small MAKERERE 
+  \includegraphics[width=0.1\textwidth]  {muk_log} UNIVERSITY}
+\end{figure}
+\centerline{COLLEGE OF COMPUTING AND INFORMATION SCIENCES\\}
+\paragraph*{•}
+\centerline{ACCURATE DATA ENTRY SYSTEM\\}
+\paragraph*{•}
+\centerline{ By\\}
+
+\centerline{Group\\}
+\paragraph*{•}
+\centerline{DEPARTMENT OF COMPUTER SCIENCE\\}
+\
+\centerline{SCHOOL OF COMPUTING AND INFORMATICS TECHNOLOGY\\}
+\centerline{A concept paper submitted to the school of computing}
+
+centerline{for the study leading to the proposal in partial fulfillment of the }
+\centerline{requirements for the award of the degree of Bachelor of science in computer science}
+
+
+\paragraph*{•}
+\centerline{Supervisor: Ernest Mwebaze\\}
+\centerline{ $March,7^{th},2018$\\}
+
+\centerline{prepared by:\\}
+\centerline{\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{No.}& \textbf{Student Name} & \textbf{RegNo} & \textbf{Signature} \\ \hline
+\textit{1}&\textbf{NAKYEWA IRENE} & \textit{16/U/851}& \textit{} \\ \hline
+\textit{2}&\textbf{NINSIIMA SHEILLA }& \textit{16/U/964}& \textit{} \\ \hline
+\textit{3}&\textbf{SSENYANGE RICHARD} & \textit{16/U/1102} & \textit{} \\ \hline
+\textit{4}&\textbf{ARIHO IGNATIUS}& \textit{16/U/1811}  & \textit{} \\ \hline
+\textit{5} &\textbf{}& \textit{}  & \textit{} \\ \hline
+\textit{6}&\textbf{ } & \  & \textit{} \\ 
+ \hline
+\end{tabular}}
+
+\paragraph*{•}
+\paragraph*{•}
+  \begin{flushright}
+  Data Collection Concept,\\
+ 
+ \tableofcontents
+
+  \end{flushright}
+\date{\today}
+\end{titlepage}
+
+\newpage
+
+
+
+\pagenumbering{arabic}
+\section{Introduction}
+\section{Background of the study}
+; Many significant technological changes have occurred in the IT industry since the beginning of the 21st century., Data entry was by means of hardcopy, big data and it was always fed into the books, ledgers. But there has been an outstanding advance in technology with powerful tools like the OdK collect and package, Google cloud computing and platforms and many others which have really helped with entry and computing abilities. But even with all these technology advancements their still some glitches in data entry such as data inconsistency and data invalidation which we seek to curb in this implementation written in this proposal.
+
+\section{Statement of the problem}
+the problem being solved or implemented is Users entering inaccurate data which sometimes results into data inconsistency, data invalidation and so this results into very wrong or insufficient and inaccurate entry of data.
+
+\section{Objectives}
+-	To curb data inconsistency where same data is just stored n different formats lets say duplication of files.
+-	To help in data validation ensuring data cleansing and improve data quality.
+-	To help users curb entering inaccurate data and learn to always have a good data entry system.
+
+\section{}
